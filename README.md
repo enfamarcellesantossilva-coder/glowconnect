@@ -1,2 +1,2 @@
 # glowconnect
-Plataforma que conectca influencer a marcas
+Plataforma que conecta influencers e marcas para realização de parcerias, campanhas e divulgação de produtos.
